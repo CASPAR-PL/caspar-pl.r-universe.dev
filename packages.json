@@ -1,6 +1,7 @@
 [
   {
     "package": "measuringreligiouschange",
-    "url": "https://github.com/CASPAR-PL/measuringreligiouschange"
+    "url": "https://github.com/CASPAR-PL/measuringreligiouschange",
+    "branch": "*release"
   }
 ]
